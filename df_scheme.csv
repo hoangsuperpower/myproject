@@ -1,0 +1,316 @@
+discount_type,discount_amount,discount_percent,description,VOUCHER_CODE
+Cash Voucher,0,0,">đổi điểm vinid nhận ngay mã thẻ nạp tiền điện thoại >mobifone> mệnh giá 20,000đ.",xXC3723
+Buy 2 get 1,0,0,">voucher ưu đãi >khi mua 02 ly trà cỡ lớn (áp dùng tất cả dòng trà), khách hàng được tặng thêm 01 ly",MA_HIGHLANDS_01022024_SF4601
+Free SKU,0,0,">voucher miễn phí combo cắt + hấp tóc trị giá 300,000đ dành cho> khách hàng nữ lần đầu trải nghiệm d",MA_YTOHAIRSALON_02062023_SF4718
+Discount Fixed Amount (For Total Bill),300000,0,">voucher giảm 300,000đ cho hóa đơn 1,500,000đ áp dụng với hàng nguyên giá tại thời trang torano.>giá",MAA_TORANO_24102023_SF4114
+Discount Percentage (For SKU),0,5,">voucher ưu đãi giảm 5% cho đơn hàng bất kỳ khi mua sắm tại vua nệm.>giá sản phẩm khoảng từ 65,000đ ",MAA_VUANEM_01022024_SF4596
+Discount Percentage (For SKU),0,40,">- thiết kế nhỏ gọn, trọng lượng nhẹ, dễ dàng cầm nắm và thao tác>- dung lượng pin lớn, cho thời gia",MA_MISHIO_05012024_SF4432
+Discount Percentage (For SKU),0,35,>giảm 35% không giới hạn đối với sản phẩm bảo hiểm tnds ô tô của bất kì đơn vị bảo hiểm nào khi mua ,MA_SALADIN_14032024_SF4665
+Discount Fixed Amount (For SKU),101000,0,">- b3: tiến hành peel da>- b4: xịt dung dịch cấp ẩm dịu da, tránh để da sốc nhiệt khi tiếp xúc với á",MAA_DLYNKCLINIC_24012024_SF4565
+Discount Fixed Amount (For SKU),222000,0,">voucher giảm 222,000đ khi đăng ký khóa học >elsa> pro premium> 1 tháng chỉ còn 569,000đ (nguyên giá",MAA_ELSASPEAK_24102023_SF4122
+Cash Voucher,10000,0,"vào miền nam, đâu đâu cũng là những không khí ấm áp và hiện đại của nhà. tại hà nội, tp.hồ chí minh,",xXC5181
+Discount Fixed Amount (For Total Bill),29000,0,">voucher ưu đãi giảm 29,000đ cho hóa đơn từ 119,000đ trở lên >tại >highlands coffee>*sản phẩm áp dụn",MA_HIGHLANDS_01022024_SF4599
+Cash Voucher,0,0,">đổi 50,000 điểm vinid nhận ngay 1,500 dặm >thưởng lotusmiles> (dặm bay >vietnam airlines)>.",VIETNAMAIRLINES_30122020_3
+Cash Voucher,0,0,">đổi điểm vinid nhận ngay thẻ nạp tiền điện thoại >vietnamobile> mệnh giá 50,000đ>.",xXC3743
+Discount Percentage (For SKU),0,45,iệu đèn>- cơm được giữ ấm trong nồi lên đến 4 giờ sau khi rút điện>-&nbsp;nắp nồi có van thoát hơi n,MA_LADOMAX_29122023_SF4382
+Discount Percentage (For Total Bill),0,15,>voucher ưu đãi giảm 15% trên tổng hóa đơn cho khách hàng dùng bữa tại cửa hàng cơm thố bách khoa.>g,MAA_COMTHOBACHKHOA_01122023_SF4282
+Discount Percentage (For SKU),0,30,">giảm 30% (tối đa 50,000đ) cho hóa đơn từ 45,000đ tại hệ thống cửa hàng rau má mix.>giá sản phẩm kho",MA_RAUMAMIX_03032024_SF4643
+Discount Fixed Amount (For SKU),159000,0,">voucher ưu đãi giảm 159,000đ khi mua >từ 02 sản phẩm> thương hiệu versace thuộc chương trình siêu d",MA_VERSACE_20012024_SF4513
+Discount Fixed Amount (For SKU),1000000,0,"hi sử dụng dịch vụ ưu đãi này, khách hàng được tặng bộ sample mỹ phẩm bijindo (bao gồm gel rửa mặt, ",MAA_VENESA_22012024_SF4606
+Discount Percentage (For SKU),151000,0,"ai gáy giúp thư giãn, lưu thông máu>- b>6: xả sạch tóc với nước, sấy khô",MAA_THAODIENSALONHAIRSPABEAUTY_01112023_SF4142
+Discount Percentage (For SKU),0,15,">giảm 15% cho tất cả các dịch vụ tại >hi spa>, ngoại trừ một số dịch vụ như: >gội đầu cơ bản | super",MA_HISPA_19122023_SF4368
+Cash Voucher,50000,0,">voucher trị giá 50,000đ> >sử dụng để mua sắm tại tất cả các cửa hàng >innisfree>. >innisfree ra đời",xXC5033
+Discount Fixed Amount (For Total Bill),100000,0,">voucher giảm 100,000đ cho hóa đơn 500,000đ khi dùng buffet> tại >nhà hàng yakimono>- >buffet godzil",MA_YAKIMONO_02012024_SF4429
+Discount Fixed Amount (For Total Bill),159000,0,">voucher ưu đãi giảm 159,000đ khi mua >từ 02 sản phẩm >thương hiệu mac thuộc chương trình siêu deal ",MA_MAC_20012024_SF4510
+Discount Fixed Amount (For SKU),150000,0,">giảm 150,000đ cho hóa đơn từ 2,000,000đ trở lên khi mua trang sức vàng style by pnj.>giá sản phẩm k",MA_STYLEBYPNJ_12012024_SF4476
+Discount Percentage (For SKU),0,10,>giảm 10% khi mua sản phẩm thuộc thương hiệu obagi>.>- áp dụng song song với giá đã giảm trên websit,MA_OBAGI_21122023_SF4358
+Discount Fixed Amount (For SKU),70000,0,khách hàng,MAA_OKINIWELLNESSSPA_24012024_SF4574
+Free SKU,0,0,>miễn phí 100% vật liệu làm răng sứ tại >nha khoa việt đức:>- áp dụng miễn phí vật liệu từ 1 - 16 ră,MA_NHAKHOAVIETDUC_20012024_SF4499
+Cash Voucher,10000,0,">voucher trị giá 10,000đ> áp dụng khi mua hàng tại chuỗi cửa hàng tiện lợi >circle k>.>ra đời từ năm",xXC12543
+Discount Percentage (For SKU),0,30,>giảm 30% cho khách hàng khi mua thẻ tập tại >elite fitness.>- chỉ dành cho khách hàng từ 18 tuổi tr,MA_ELITEFITNESS_21042023_SF3219
+Discount Fixed Amount (For SKU),1000000,0,g dịch vụ: 30 phút - 60 phút / 01 lần>.,MA_WINSMILE_12102023_SF3971
+Discount Percentage (For SKU),0,27,y đủ và chín đều,MAA_SHARP_28032024_SF4774
+Discount Percentage (For SKU),0,10,">giảm 10% tối đa 1,200,000đ cho >khách hàng mới> khi mua trang sức vàng pnj, trang sức platinum, tra",MA_PNJ_12012024_SF4479
+Discount Fixed Amount (For Total Bill),39000,0,">voucher ưu đãi giảm 39,000đ cho hóa đơn từ 149,000đ trở lên >tại >highlands coffee>*sản phẩm áp dụn",MA_HIGHLANDS_02012024_SF4475
+Buy 2 get 1,0,0,">voucher ưu đãi >khi mua 02 ly trà hoặc freeze cỡ lớn hoặc vừa (cùng dòng), khách hàng được tặng thê",MA_HIGHLANDS_02012024_SF4414
+Free SKU,0,0,">voucher ưu đãi tặng 01 ly trà size s (trị giá 45,000đ) áp dụng khi mua >trà, freeze, phindi, cà phê",MA_HIGHLANDS_10012024_SF4447
+Discount Fixed Amount (For Total Bill),200000,0,">voucher giảm 200,000đ cho hóa đơn từ 1,000,000đ khi mua sản phẩm >shiseido> tại các cửa hàng có tro",MA_SHISEIDO_05112023_SF4140
+Cash Voucher,50000,0,"m trà và cà phê đến tất cả các hệ thống: siêu thị, cửa hàng tiện lợi, kênh thương mại điện tử…",xXC3467
+Free SKU,0,0,">tặng nước hoa cm24 9ml trị giá 179,000đ >cho tất cả hóa đơn từ 359,000đ trở lên> tại >coolmate>.>- ",MAA_COOLMATE_110122024_TangAo
+Cash Voucher,0,0,">mã nạp tiki xu trị giá 20,000đ tương đương với phiếu mua hàng điện tử được dùng để cấn trừ vào giá ",xXC2654
+Discount Fixed Amount (For Total Bill),60000,0,">giảm ngay 60,000đ cho >hóa đơn từ 200,000đ trở lên> khi mua sản phẩm nội y và đồ ngủ tại ibasic.>- ",MA_iBasic_10122023_SF4278
+Discount Fixed Amount (For SKU),301000,0,"ề mặt da.>bước 6: lấy nhân mụn già, thô sần.>bước 7: đắp mặt nạ hỗ trợ điều trị mụn, mờ thâm.>bước 8",MA_HATHORBEAUTYSPA_26052023_SF3334
+Discount Fixed Amount (For Total Bill),300000,0,">giảm đến 300,000đ cho những sản phẩm đồ chơi tại >my kingdom> thuộc thương hiệu mattel, hasbro và n",MA_MYKINGDOM_05022024_SF4614
+Combo Bundle,0,0,">ưu đãi combo 01 lọ >viên nhai vitamin c >springleaf >500mg> + 01 lọ >tinh dầu tỏi> giá chỉ 490,000đ",MA_HEALTHYCARE_25122023_SF4383
+Discount Percentage (For SKU),0,10,">voucher ưu đãi giảm 10% cho hóa đơn đồ ăn tại >warning zone> tp. hồ chí minh.>giá món khoảng từ 80,",MAA_WARNINGZONE_20012024_SF4524
+Discount Fixed Amount (For SKU),800000,0, dụng cụ y tế>- b8: >sát khuẩn vùng điều trị bằng dung dịch povidine>- b9: >tiến hành peel da>- b10:,MAA_WONHEEKOREA_01112023_SF4132
+Discount Percentage (For SKU),0,50,>giảm 50% áp dụng cho tất cả các sản phẩm ghế massage và máy tập thể dục thương hiệu airbike.>giá sả,MA_AIRBIKE_12012024_SF4435
+Discount Percentage (For SKU),0,20,">giảm 20% (tối đa 1,000,000đ) sản phẩm balo, túi đeo chính hãng của >korin.>- áp dụng song song với ",MA_KORIN_12012024_SF4496
+Discount Fixed Amount (For SKU),80000,0,">voucher ưu đãi giảm 80,000đ khi mua giày >lacoste >thuộc chương trình deal hot trên website vua hàn",MA_LACOSTE_16112023_SF4211
+Discount Percentage (For SKU),0,30,">giảm 30% tất cả sản phẩm làm đẹp của >lifetrons việt nam.>giá sản phẩm khoảng từ 890,000đ - 7,190,0",MA_LIFETRONS_18102023_SF4197
+Discount Fixed Amount (For Total Bill),300000,0,">voucher giảm đến 200,000đ cho khách hàng vinid khi thưởng thức ẩm thực tại >bò tơ quán mộc>.>ưu đãi",MA_BOTOQUANMOC_15112023_SF4200
+Discount Percentage (For SKU),0,7,">giảm 7% tối đa 1,500,000đ khi mua trang sức vàng pnj, trang sức platinum, trang sức pnj hello kitty",MA_PNJ_12012024_SF4480
+Discount Percentage (For SKU),0,15,">giảm 15% tối đa 1,500,000đ khi mua trang sức pnjsilver.>giá sản phẩm khoảng từ 195,000đ - 3,500,000",MA_PNJSILVER_12012024_SF4478
+Cash Voucher,20000,0,">voucher trị giá 20,000đ> áp dụng >cho tất cả sản phẩm tại hệ thống katinat>.>giá món khoảng từ 32,0",MA_KATINATCAFE_30012024_SF4559
+Discount Fixed Amount (For Total Bill),100000,0,">voucher giảm 100,000đ áp dụng cho hóa đơn 500,000đ trở lên tại >shang chi>chỉ áp dụng cho menu buff",MA_SHANGCHI_02012024_SF4430
+Discount Percentage (For Total Bill),0,35,">đặc biệt, đến với swensen’s thực khách không chỉ được thưởng thức dòng kem trang trí đẹp mắt và tỉ ",MA_SWENSENS_01102023_SF3872
+Discount Fixed Amount (For Total Bill),50000,0,">voucher ưu đãi giảm 50,000đ cho hóa đơn mua sắm từ 500,000đ tại >decathlon.>giá sản phẩm từ 79,000đ",MAA_DECATHLON_10112023_31012024
+Discount Fixed Amount (For Total Bill),80000,0,">voucher ưu đãi giảm 80,000đ khi mua sản phẩm thương hiệu >mlb >thuộc chương trình siêu deal> >trên ",MA_MLB_20012024_SF4503
+Discount Percentage (For SKU),0,50,>amare> hứa hẹn sẽ mang lại những trải nghiệm không thể quên cho bạn.,MA_AMAREWELLNESSCENTER_01122023_SF4285
+Cash Voucher,50000,0,>katinat tự hào mang đến những sản phẩm với hương vị đặc sắc và bạn chính là một phần đặc biệt của >,xXC11629
+Cash Voucher,57000,0,giá giá trị thương hiệu.,xXC10173
+Cash Voucher,0,0,">mã thẻ nạp tiền điện thoại viettel mệnh giá 30,000đ>.>website viettel",xXC3706_Clone
+Free SKU,0,0,">voucher ưu đãi tặng 01 ly phindi cỡ nhỏ cho hóa đơn từ 100,000đ tại >highlands coffee>*sản phẩm tặn",MA_HIGHLANDS_01032024_SF4633
+Discount Percentage (For SKU),0,50,">voucher ưu đãi tặng 01 giờ dịch vụ dọn nhà >trên app btaskee.>- 01 giờ dịch vụ có giá 80,000đ (>bta",MA_BTASKEE_02062023_SF3423
+Discount Fixed Amount (For Total Bill),30000,0,">ưu đãi giảm 30,000đ cho hóa đơn từ 130,000đ trở lên tại hệ thống nhà hàng kfc việt nam.>giá sản phẩ",MAA_KFC_01012024_SF4346
+Cash Voucher,0,0,">voucher trị giá 30,000đ sử dụng để nạp tiền điện thoại >mobifone",xXC3724
+Free SKU,0,0,">voucher miễn phí cạo vôi răng hoặc trám răng trị giá 500,000đ> tại >nha khoa smile beauty",MAA_SMILEBEAUTY_30122023_SF4427
+Discount Percentage (For SKU),0,50,"ải mái trên bếp hồng ngoại, bếp ga, bếp điện...>- >tay cầm bằng nhựa cách nhiệt, chống nóng tốt, có ",MA_GREENCOOK_15112023_SF4199
+Discount Fixed Amount (For Total Bill),100000,0,">giảm ngay 100,000đ khi mua sản phẩm the ordinary.>- áp dụng song song với giá giảm trên web>- giá s",THEORDINARY_17032023_SF3032
+Discount Fixed Amount (For SKU),360000,0,"g chất để cung cấp dưỡng chất và độ ẩm cho vùng da điều trị>- b6: hấp đèn vùng nách, sẽ giúp dưỡng c",MAA_TUELAMBEAUTY_24012024_SF4562
+Cash Voucher,20000,0,">đổi&nbsp;điểm vinid nhận ngay voucher giảm 20,000đ sử dụng cho dịch vụ gọi xe&nbsp;xanh sm&nbsp;của",MA_GSM_18092023_SF3852
+Cash Voucher,30000,0,">voucher trị giá 30,000đ sử dụng để thanh toán hóa đơn cho dịch vụ grab food trên ứng dụng grab.",xXC5086
+Discount Percentage (For SKU),0,50," gọn mặt, mắt, cằm, cổ, bàn tay >- triệt lông",MAA_AURABOX_30122023_SF4421
+Discount Fixed Amount (For Total Bill),100000,0,">giảm 100,000đ áp dụng cho tất cả sản phẩm (trừ hoa cắt cành) tại hoa yêu thương.>giá sản phẩm khoản",MA_Hoayeuthuong_01032024_SF4672
+Discount Percentage (For SKU),0,15,">ưu đãi giảm 15% cho đơn hàng từ 99,000đ trở lên tại >coolmate>.>- áp dụng cho giá sản phẩm đã giảm ",MAA_COOLMATE_01122023_SF4236
+Discount Fixed Amount (For Total Bill),60000,0,">voucher giảm 60,000đ cho hóa đơn 650,000đ trở lên khi mua mỹ phẩm thuộc thương hiệu >emmié by happy",MAA_EMMIEBYHAPPYSKIN_25122023_SF4372
+Discount Fixed Amount (For SKU),600000,0,">voucher giảm 600,000đ áp dụng khi đăng ký khóa học >elsa pro trọn đời> chỉ còn 1,595,000đ (nguyên g",MA_ELSASPEAK_01022024_SF4657
+Discount Percentage (For Total Bill),0,10,>giảm 10% khi mua sản phẩm thuộc thương hiệu nuxe>.>- áp dụng song song với giá đã giảm trên website,MA_NUXE_21122023_SF4339
+Cash Voucher,0,0,">đổi điểm vinid nhận ngay điểm thưởng bamboo club, điểm sẽ được gửi trực tiếp vào tài khoản bav mà k",BAMBOO100
+Cash Voucher,0,0,">đổi điểm vinid nhận ngay điểm thưởng bamboo club, điểm sẽ được gửi trực tiếp vào tài khoản bav mà k",BAMBOO2000
+Discount Fixed Amount (For Total Bill),60000,0,">ưu đãi giảm 60,000đ cho hóa đơn từ 240,000đ trở lên tại hệ thống nhà hàng kfc việt nam.>giá sản phẩ",MAA_KFC_01012024_SF4349
+Discount Fixed Amount (For SKU),30000,0,">giảm ngay 30,000đ áp dụng cho tất cả dịch vụ trên ứng dụng btaskee.>- hiện tại, btaskee cung cấp hơ",MA_BTASKEE_02062023_SF3424
+Free SKU,0,0,>voucher miễn phí topping thạch hạnh nhân khi mua trà sữa size l bất kỳ trong menu của >gong cha>.>-,MAA_GONGCHA_20012024_SF4488
+Discount Fixed Amount (For SKU),159000,0,">voucher ưu đãi giảm 159,000đ khi mua >từ 02 sản phẩm >thương hiệu coach thuộc chương trình siêu dea",MA_COACH_20012024_SF4514
+Discount Percentage (For SKU),0,50,">voucher giảm giá 50% (tối đa 25,000đ) cho 01 đơn giao hàng bằng xe máy của >ahamove, dành cho >khác",MA_AHAMOVE_01122023_SF4262
+Discount Fixed Amount (For SKU),21000,0,">ưu đãi dịch vụ gội đầu kết hợp massage vai cổ gáy giảm còn 99,000đ (giá gốc: 120,000đ) tại yu acade",MAA_YUACADEMY_01112023_SF4139
+Discount Percentage (For SKU),361000,0,>giảm đến 50% cho các dịch vụ chăm sóc da tại >spa 100% thảo mộc như sau:>- giảm thâm mặt chuyên sâu,MA_SPA100THAOMOC_26122023_SF4350
+Discount Percentage (For SKU),0,6,">voucher ưu đãi giảm 6% áp dụng >cho đơn hàng từ 2,000,000đ> tại vua nệm.>giá sản phẩm khoảng từ 65,",MAA_VUANEM_01092023_SF3801
+Discount Fixed Amount (For SKU),159000,0,">voucher ưu đãi giảm 159,000đ khi mua >từ 02 sản phẩm> thương hiệu estée lauder thuộc chương trình s",MA_ESTEELAUDER_20012024_SF4512
+Cash Voucher,2000,0,">đổi điểm vinid nhận ngay mã thẻ nạp tiền điện thoại >vinaphone> mệnh giá 50,000đ.",xXC3716
+Discount Fixed Amount (For SKU),0,70,>voucher ưu đãi các liệu trình sau:>- lấy nhân mụn chuẩn y khoa / skintox - massage lưu thông khí hu,MAA_HAPPYSKINBEAUTYCLINIC_25122023_SF4402
+Discount Fixed Amount (For SKU),515000,0,">voucher giảm 515,000đ khi đăng ký khóa học >elsa> pro premium> 3 tháng chỉ còn 1,198,000đ >(nguyên ",MAA_ELSASPEAK_24102023_SF4121
+Discount Fixed Amount (For SKU),751000,0,">ưu đãi dịch vụ> >trị thâm mụn lưng hoặc mụn mặt bằng công nghệ picosecond laser> chỉ 249,000đ tại a",MAA_ANSSPA_24012024_SF4572
+Discount Percentage (For SKU),0,25,>giảm 25% chi phí gói xét nghiệm spot-mas hỗ trợ tầm soát phát hiện sớm 05 loại ung thư phổ biến nhấ,MAA_GENSOLUTION_25122023_SF4415
+Cash Voucher,50000,0,">voucher trị giá 50,000đ sử dụng tại&nbsp;tất cả các nhà hàng&nbsp;>manwah>.>thông tin nhà hàng>thực",xXC2417
+Cash Voucher,0,0,">đổi điểm vinid nhận ngay điểm thưởng bamboo club, điểm sẽ được gửi trực tiếp vào tài khoản bav mà k",BAMBOO1000
+Discount Percentage (For SKU),0,35,">giảm 35% công nội soi dạ dày / đại tràng / dạ dày và đại tràng công nghệ thường, công nghệ nbi, côn",MA_BENHVIENTHUCUC_01122023_SF4375
+Buy 1 get 1,0,0,">ưu đãi >mua 02 tính tiền 01> áp dụng với sản phẩm >sữa bò non top life> - giá chỉ 480,000đ.>link th",MA_HEALTHYCARE_25122023_SF4384
+Discount Fixed Amount (For SKU),0,65,">ưu đãi >chảo chống dính đáy từ nagakawa nag2854 chỉ còn 499,000đ>.>xuất xứ: trung quốc.>chảo chống ",MAA_NAGAKAWA_25122023_SF4398
+Discount Fixed Amount (For Total Bill),100000,0,">bạn bè để >chia sẻ, thưởng thức và cùng khám phá các món ăn thái thật ngon, mang hương vị bản xứ vớ",MA_KHRUABAANTHAI_18032024_SF4699
+Buy 1 get 1,0,0,>ưu đãi >mua 02 tính tiền 01> áp dụng với sản phẩm >kids zinc + vitamin c liquid healthy care> - giá,MA_HEALTHYCARE_29122023_SF4386
+Discount Percentage (For SKU),0,10,>giảm ngay 10% khi đăng ký khóa học tiếng anh cho người đi làm >bất kỳ >tại >aroma.>học phí mỗi gói ,MAA_AROMA_20012024_SF4489
+Discount Percentage (For Total Bill),0,30,>giảm 30% cho tất cả các sản phẩm nguyên giá + freeship toàn quốc khi mua hàng tại >haxuvina>.>giá s,MA_HAXUVINA_15112023_SF4286
+Discount Percentage (For SKU),0,10,">giảm 10% áp dụng cho hóa đơn từ 399,000đ trở lên khi mua sản phẩm >deve men - nhãn hàng thuộc tập đ",MA_DEVEMEN_16122023_SF4360
+Cash Voucher,50000,0,u và những loại rượu vang ngon nổi tiếng.,xXC4774
+Free SKU,0,0,">voucher ưu đãi tặng 01 ly trà size s (trị giá 45,000đ) áp dụng khi mua >trà, freeze, phindi, cà phê",MA_HIGHLANDS_01022024_SF4600
+Discount Percentage (For SKU),0,15,">giảm 15% tối đa 2,000,000đ khi mua trang sức bạc style by pnj.>giá sản phẩm khoảng từ 255,000đ - 5,",MA_STYLEBYPNJ_12012024_SF4477
+Cash Voucher,50000,0,">voucher trị giá 50,000đ> áp dụng khi sử dụng dịch vụ tại nhà hàng gogi house &amp; gogi steak.>giá ",MAA_GOGIHOUSE_27012024_SF4579
+Discount Fixed Amount (For SKU),1000000,0,">giảm ngay 1,000,000đ khi mua hàng tại cashion - chuyên phân phối hàng hiệu authentic hàng đầu việt ",MAA_CASHION_28122023_SF4388
+Discount Fixed Amount (For SKU),350000,0,">giảm 350,000đ cho đơn hàng từ 5,000,000đ đối với sản phẩm bảo hiểm vật chất ô tô khi mua trên >sala",MA_SALADIN_28122023_SF4378
+Discount Fixed Amount (For Total Bill),50000,0,">voucher giảm 50,000đ cho hóa đơn 300,000đ áp dụng với hàng nguyên giá tại thời trang torano.>giá sả",MAA_TORANO_24102023_SF4102
+Discount Fixed Amount (For Total Bill),159000,0,">voucher ưu đãi giảm 159,000đ khi mua >từ 02 sản phẩm >thương hiệu michael kors thuộc chương trình s",MICHAELKORS_20012024_SF4472
+Free SKU,0,0,">tặng mascara mini trị giá 400,000đ cho mọi đơn hàng m.a.c tại gian hàng chính hãng trên lazada>.>- ",MA_MAC_05032024_SF4663
+Cash Voucher,10000,0,">voucher trị giá 10,000đ> áp dụng tại hệ thống phúc long.>ra đời năm 1968 tại cao nguyên chè danh ti",xXC5218
+Discount Fixed Amount (For Total Bill),100000,0,">voucher giảm 100,000đ cho hóa đơn 500,000đ áp dụng với hàng nguyên giá tại thời trang torano.>giá s",MAA_TORANO_24102023_SF4112
+Discount Fixed Amount (For Total Bill),200000,0,">voucher giảm 200,000đ >áp dụng hóa đơn từ 2,000,000đ trở lên cho khách hàng> thưởng thức ẩm thực tạ",MA_BOTOQUANMOC_14032024_SF4700
+Discount Percentage (For SKU),0,10,>ưu đãi&nbsp;giảm 10% áp dụng với các sản phẩm seasonal của ding tea.>bst seasonal gồm có 03 món:>- ,MAA_DINGTEA_08122023_SF4366
+Cash Voucher,0,0,">đổi điểm vinid nhận ngay mã thẻ nạp tiền điện thoại mobifone mệnh giá 100,000đ.",xXC3726
+Free SKU,0,0,collagen diễn ra liên tục.,MA_TMVNGOCDUNG_12102023_SF3958
+Cash Voucher,100000,0,">chi tiết chương trình>đổi điểm vinid nhận ngay voucher trị giá 100,000đ sử dụng tại hệ thống cửa hà",xXC5508
+Discount Fixed Amount (For SKU),0,50,">- b5: đắp mặt nạ chuyên sâu làm sáng da>- b6: chiếu đèn xanh lá, giúp kích thích tăng cường sự đàn ",MAA_HOANGLANBEAUTYCLINIC_31032024_SF4789
+Cash Voucher,0,0,">voucher trị giá 30,000đ sử dụng để thẻ nạp tiền điện thoại >vinaphone",xXC3715
+Buy 2 get 1,0,0,>ưu đãi mua 02 thức uống bất kỳ size l (trong menu >xmas drinks) >tặng 01 >trà sữa bánh quy gừng> si,MAA_GONGCHA_27122023_SF4345
+Discount Fixed Amount (For Total Bill),39000,0,">voucher ưu đãi giảm 39,000đ cho hóa đơn từ 149,000đ trở lên >tại >highlands coffee>*sản phẩm áp dụn",MA_HIGHLANDS_01022024_SF4602
+Discount Fixed Amount (For Total Bill),50000,0,">giảm 50,000đ áp dụng cho tất cả sản phẩm tại locat.>giá sản phẩm khoảng từ 160,000đ - 1,400,000đ.",MA_LOCATVN_05122023_SF4276
+Discount Percentage (For Total Bill),0,30,">giảm 30% (tối đa 120,000đ) >áp dụng song song với giá đã giảm khi mua hàng tại potico.> giá sản phẩ",MA_POTICO_15122023_SF4362
+Discount Percentage (For SKU),0,20,>ưu đãi giảm 20% áp dụng cho tất cả sản phẩm thuộc thương hiệu bell đức.>- áp dụng với giá sau khuyế,MA_BELLDUC_25122023_SF4381
+Discount Fixed Amount (For SKU),0,20,">giảm 20% >gói năng lượng: gội đầu + masssage tay, cổ vai gáy chỉ&nbsp;199,000đ> (giá gốc: 250,000đ)",MAA_ANMIENSPA_24012024_SF4567
+Cash Voucher,10000,0,.,xXC8791
+Discount Fixed Amount (For Total Bill),2024000,0,">voucher ưu đãi giảm 2,024,000đ + tặng >bộ tài liệu cfa trị giá 2,000,000đ khi đăng ký khóa học cfa ",MAA_SAPPACADEMY_30122023_SF4423
+Discount Fixed Amount (For SKU),130000,0,">đặc biệt, đến với swensen’s thực khách không chỉ được thưởng thức dòng kem trang trí đẹp mắt và tỉ ",MA_SWENSENSCAKE_04012024_SF4482
+Discount Fixed Amount (For SKU),100000,0,một số bài tập/thay đổi thói quen tại nhà cho khách hàng,MAA_OKINIWELLNESSSPA_24012024_SF4573
+Discount Percentage (For SKU),0,20,">voucher giảm 20% tối đa 50,000đ cho chuyến đi bằng >bebike/becar áp dụng tại các thành phố be cung ",MA_BE_10012024_SF4486
+Cash Voucher,0,0,">đổi điểm vinid nhận ngay mã thẻ nạp tiền điện thoại viettel mệnh giá 10,000đ>.",xXC3704
+Discount Fixed Amount (For SKU),1001000,0,c da tại nhà theo từng tình trạng da của khách hàng.>*>tham khảo>: >facebook hathor beauty spa,MA_HATHORBEAUTYSPA_12102023_SF3969
+Discount Fixed Amount (For Total Bill),100000,0,">giảm 100,000đ cho hóa đơn trên 600,000đ tại hệ thống cửa hàng >merriman>- áp dụng cho hàng nguyên g",MA_MERRIMAN_28092023_SF3886
+Discount Fixed Amount (For SKU),281000,0, khách hàng>- b6: kiểm tra tia laser để đảm bảo tính hiệu quả của quá trình triệt lông>- b7: tiến hà,MAA_ANSSPA_24012024_SF4569
+Cash Voucher,0,0,">đổi 10,000 điểm vinid nhận ngay 300 dặm >thưởng lotusmiles> (dặm bay >vietnam airlines)>.",VIETNAMAIRLINES_30122020_2
+Cash Voucher,30000,0,">voucher trị giá 30,000đ> áp dụng tại hệ thống phúc long.>ra đời năm 1968 tại cao nguyên chè danh ti",xXC4783
+Discount Fixed Amount (For Total Bill),30000,0,">voucher giảm 30,000đ cho hóa đơn 350,000đ trở lên khi mua mỹ phẩm thuộc thương hiệu >emmié by happy",MAA_EMIMIEBYHAPPYSKIN_25122023_SF4373
+Discount Fixed Amount (For SKU),5000000,0,">voucher giảm 5,000,000đ chi phí dịch vụ niềng răng hoặc cấy ghép implant tại >nha khoa smile beauty",MAA_SMILEBEAUTY_30122023_SF4426
+Free SKU,0,0,">voucher miễn phí tẩy trắng răng trị giá 2,000,000đ >tại >nha khoa smile beauty> voucher không được ",MAA_SMILEBEAUTY_05032024_SF4674
+Discount Percentage (For SKU),100000,0,">giảm 10% cho hóa đơn từ 500,000đ trở lên, áp dụng đồ chơi thuộc thương hiệu mattel, hasbro và những",MA_MYKINGDOM_05022024_SF4675
+Cash Voucher,50000,0,">voucher trị giá 50,000đ áp dụng khi mua sắm trên lazada.>thông tin thương hiệu>lazada là nền tảng t",xXC5103
+Cash Voucher,50000,0,>nhà> thật thuận tiện. >đến với the c>offee house để> trải nghiệm rất nhiều sự lựa chọn:>- espresso ,xXC89
+Discount Fixed Amount (For SKU),0,56,"bộ bề mặt>- >vỏ sơn tĩnh điện bền đẹp, chống nóng và cách nhiệt an toàn",MAA_NAGAKAWA_25122023_SF4395
+Cash Voucher,50000,0,">voucher trị giá 50,000đ> áp dụng cho hóa đơn mua sắm tại hệ thống cửa hàng >canifa>.>thương hiệu th",xXC6895
+Discount Fixed Amount (For SKU),401000,0,>- b>7: gội xả thảo mộc cao cấp dưỡng tóc và trị gàu>- b>8: massage giảm đau mỏi cổ vai gáy>- b>9: h,MAA_THAODIENSALONHAIRSPABEAUTY_01112023_SF4127
+Combo Bundle,0,0,">combo 01 trà sữa dâu hạnh nhân size m + 01 món trong menu best seller> >size s chỉ 79,000đ tại gong",MAA_GONGCHA_05032024_SF4656
+Free SKU,0,0,">voucher ưu đãi tặng 01 ly trà size s (trị giá 45,000đ) áp dụng khi mua >trà, freeze, phindi, cà phê",MA_HIGHLANDS_02012024_SF4407
+Cash Voucher,20000,0,">voucher trị giá 20,000đ> áp dụng khi mua hàng tại chuỗi cửa hàng tiện lợi >circle k>.>ra đời từ năm",xXC12555
+Buy 1 get 1,0,0,">ưu đãi mua 01 đồ uống size l tặng 01 đồ uống seasonal bất kỳ tại ding tea.>giá món từ 42,000đ - 62,",MAA_DINGTEA_08122023_SF4281
+Discount Percentage (For SKU),0,25,">voucher ưu đãi giảm 25% toàn bộ dịch vụ spa tại happy skin beauty clinic.>giá dịch vụ từ 299,000đ -",MAA_HAPPYSKINBEAUTYCLINIC_25122023_SF4401
+Free SKU,0,0,">tặng 14 ngày trải nghiệm tập luyện không giới hạn trị giá 2,500,000đ tại 01 trong những clb của eli",MA_ELITEFITNESS_21042023_SF3220
+Free SKU,0,0,>voucher áp dụng tập luyện miễn phí tại hypoxi (thuộc hệ thống california fitness >&amp; yoga>).>mỗi,MA_HYPOXI_01122023_SF4267
+Free SKU,0,0,>voucher ưu đãi tặng 01 khóa học thuyết trình tiếng anh với giáo viên bản ngữ cho học sinh lứa tuổi ,MAA_SCOTSENGLISH_05122023_SF4420
+Others,0,0,">sau khi khách hàng đổi voucher&nbsp;>[viettel] thẻ nạp 20,000đ> >sẽ không đổi được các voucher khác",xXC4711
+Discount Fixed Amount (For SKU),21000,0,">- b4: chuyên viên dùng đầu lạnh chiếu trực tiếp lên vùng da điều trị, cho ánh sáng đi qua và lưu lạ",MAA_THANHTRUCBEAUTY_31032024_SF4784
+Discount Fixed Amount (For SKU),20000,0,">giảm ngay 20,000đ áp dụng cho tất cả dịch vụ trên ứng dụng btaskee.>- hiện tại, btaskee cung cấp hơ",MA_BTASKEE_01032024_SF4632
+Discount Fixed Amount (For SKU),20000,0,">giảm 20,000đ cho đơn hàng từ 85,000đ trở lên khi đặt befood.>*không áp dụng cho phụ phí và phí giao",MA_BE_10012024_SF4485
+Discount Percentage (For Total Bill),0,10,>giảm 10% khi mua sản phẩm của thương hiệu >blackmores.>- áp dụng song song với giá đã giảm trên web,MA_BLACKMORRES_21122023_SF4389
+Discount Fixed Amount (For Total Bill),100000,0,">voucher giảm 100,000đ áp dụng cho hóa đơn 500,000đ (trước vat) trở lên khi sử dụng dịch vụ tại >nhà",MA_LEMONDESTEAK_02012024_SF4428
+Discount Percentage (For SKU),0,50,>- b6>: kiểm tra lại da và bôi kem dưỡng để bảo vệ da khỏi tác động từ môi trường>*thời gian thực hi,MAA_MHJCLINIC_01112023_SF4125
+Free SKU,0,0,">tặng 01 suất trẻ hóa da aqua peel trị giá 4,000,000đ >tại thẩm mỹ viện ngọc dung.>áp dụng cho khách",MA_TMVNGOCDUNG_25012024_SF4523
+Cash Voucher,30000,0,">voucher trị giá 30,000đ> áp dụng khi mua hàng tại chuỗi cửa hàng tiện lợi >circle k>.>bắt đầu từ nă",xXC12557
+Free SKU,0,0,">tặng kem lót vitamin enriched face base 7ml trị giá 380,000đ cho mọi đơn hàng mua sản phẩm bobbi br",MA_BOBBIBROWN_05032024_SF4662
+Discount Fixed Amount (For SKU),230000,0, mịn,MAA_YENSPA_01112023_SF4138
+Cash Voucher,50000,0,"ư đồ nghề ảo thuật, dụng cụ nhà bếp, đồ dùng làm bánh.",xXC11198
+Cash Voucher,50000,0,">voucher trị giá 50,000đ sử dụng khi đặt hàng trên shopeefood.",xXC6198
+Discount Percentage (For SKU),0,10,">giảm 10% tối đa 200,000đ áp dụng toàn bộ hệ thống quán nhậu tự do.>giá món chỉ từ 49,000đ.",MA_QUANNHAUTUDO_20012024_SF4516
+Discount Percentage (For SKU),0,50,hút - 60 phút / 01 răng.,MA_WINSMILE_12092023_SF3868
+Discount Percentage (For SKU),0,14,">giảm 14% >gói bận rộn: gội đầu + masssage đầu chỉ&nbsp;129,000đ> (giá gốc: 150,000đ) tại an miên sp",MAA_ANMIENSPA_24012024_SF4568
+Free SKU,0,0,">voucher miễn phí trải nghiệm 01 trong các dịch vụ làm đẹp trị giá 5,000,000đ> tại hệ thống seoul sp",MAA_SEOULSPA_29032024_SF4765
+Discount Fixed Amount (For Total Bill),100000,0,">giảm 100,000 cho đơn hàng từ 300,000đ trở lên,> >áp dụng song song với giá đã giảm khi mua hàng tại",MA_POTICO_01022024_SF4626
+Cash Voucher,0,0,">đổi >điểm vinid nhận ngay mã >thẻ nạp tiền điện thoại >viettel> mệnh giá 50,000đ.",xXC3707
+Discount Fixed Amount (For Total Bill),50000,0,">đặc biệt, đến với swensen’s thực khách không chỉ được thưởng thức dòng kem trang trí đẹp mắt và tỉ ",MA_SWENSENS_04012024_SF4481
+Cash Voucher,0,0,>đổi điểm vinid nhận ngay mã thẻ data >mobifone> 1.5gb sử dụng trong 10 ngày.,xXC3755
+Discount Percentage (For Total Bill),0,15,">ưu đãi giảm 15% cho đơn hàng từ 99,000đ trở lên tại >coolmate>.>- áp dụng cho giá sản phẩm đã giảm ",MAA_COOLMATE_110122024_giam15
+Free SKU,0,0,>voucher tặng> >21 ngày trải nghiệm tập luyện đẳng cấp.>- chỉ dành cho khách hàng từ 18 tuổi trở lên,MA_CALIFORNIAFITNESS_05082022_SF1680
+Free SKU,0,0,">tặng voucher >trị giá 200,000đ> >test năng lực tiếng anh và bộ quà khi tham gia test tại >scots eng",MAA_SCOTSENGLISH_25102023_SF4391
+Cash Voucher,0,0,">đổi điểm vinid nhận ngay điểm thưởng bamboo club, điểm sẽ được gửi trực tiếp vào tài khoản bav mà k",BAMBOO500
+Cash Voucher,0,0,">đổi điểm vinid nhận ngay mã thẻ nạp tiền điện thoại >viettel> mệnh giá 20,000đ>.",xXC3705
+Discount Fixed Amount (For SKU),80000,0,">voucher ưu đãi giảm 80,000đ khi mua sản phẩm thương hiệu nike thuộc chương trình siêu deal trên web",MA_NIKE_20012024_SF4505
+Discount Fixed Amount (For Total Bill),200000,0,">giảm ngay 200,000đ cho >hóa đơn từ 500,000đ trở lên> khi mua sản phẩm nội y và đồ ngủ tại ibasic.>-",MA_iBasic_10122023_SF4367
+Discount Fixed Amount (For SKU),145000,0,"iết lập thời gian làm việc, hẹn giờ lên đến 60 phút>- >bên trong lòng nồi phủ lớp ceramic cao cấp, c",MA_BEAR_24102023_SF4144
+Discount Fixed Amount (For SKU),330000,0,">voucher giảm 330,000đ khi đăng ký gói học elsa pro 01 năm chỉ còn 765,000đ (nguyên giá: 1,095,000đ)",MA_ELSASPEAK_01022024_SF4658
+Combo Bundle,299000,0,">voucher ưu đãi tặng 01 suất khi khách hàng đi nhóm 04 người, áp dụng cho menu buffet 299,000đ >tại ",MA_SHANGCHI_01032024_SF4639
+Free SKU,0,0,">tặng 01 balo rút gọn trị giá 89,000đ cho hóa đơn mua sắm từ 700,000đ tại >decathlon.>- hóa đơn phải",MAA_DECATHLON_10112023_SF4194
+Discount Percentage (For Total Bill),0,10,">giảm ngay 10% cho đơn hàng 399,000đ trở lên khi mua sản phẩm của thương hiệu dhc tại best me.>giá s",MA_DHC_19102023_SF4030
+Discount Fixed Amount (For Total Bill),90000,0,">voucher giảm 90,000đ cho hóa đơn 900,000đ trở lên khi mua mỹ phẩm thuộc thương hiệu >emmié by happy",MAA_EMMIEBYHAPPYSKIN_25122023_SF4371
+Free SKU,0,0,>voucher kiểm tra trình độ miễn phí và nhận lộ trình học cfa tại >sapp academy>.,MAA_SAPPACADEMY_29022024_SF4644
+Discount Fixed Amount (For Total Bill),50000,0,">giảm 50,000đ cho hóa đơn từ 300,000đ áp dụng khi mua hàng qua website le coon.>- >không áp dụng cho",MAA_LECOON_31012024_SF4779
+Cash Voucher,0,0,">đổi >4,000 điểm vinid nhận ngay> mã thẻ data&nbsp;viettel 2.5gb sử dụng trong 15 ngày.",xXC3761
+Cash Voucher,0,0,">đổi >điểm vinid nhận ngay >mã thẻ nạp tiền điện thoại >mobifone> mệnh giá 50,000đ>.",xXC3725
+Discount Fixed Amount (For Total Bill),200000,0,">voucher giảm 200,000đ cho hóa đơn từ 1,000,000đ áp dụng với hàng nguyên giá của may10.>giá sản phẩm",MA_May10_22012024_SF4603
+Discount Fixed Amount (For SKU),80000,0,">ưu đãi giảm 80,000đ khi mua sản phẩm thương hiệu >adidas> thuộc chương trình siêu deal trên website",MA_ADIDAS_20012024_SF4501
+Free SKU,0,0,">tặng 0>1 áo thun trị giá 199,000đ cho tất cả hóa đơn từ 359,000đ trở lên> tại >coolmate>.>- áp dụng",MAA_COOLMATE_01122023_SF4248
+Discount Percentage (For SKU),0,35,>ưu đãi giảm 35% gói thai sản các tuần (không áp dụng gói vip) tại bệnh viện thu cúc.>giá khoảng từ ,MA_BENHVIENTHUCUC_01122023_SF4283
+Cash Voucher,50000,0,">voucher trị giá 50,000đ áp dụng mua sắm trên ứng dụng shopee (không bao gồm phí ship).",xXC618
+Discount Fixed Amount (For SKU),159000,0,">voucher ưu đãi giảm 159,000đ khi mua >từ 02 sản phẩm dior >thuộc chương trình siêu deal trên websit",MA_DIOR_20012024_SF4506
+Discount Percentage (For SKU),161000,0," máu lưu thông tốt làm giảm tê bì tay và các ngón tay>- b16: kéo giãn vùng cổ, gáy>- b17: bóp vai>- ",MAA_YENTRANGBEAUTY_24012024_SF4577
+Discount Percentage (For SKU),20000,0,ãn và hồi phục nhanh chóng,MAA_TRANGBEAUTYNAILCARE_01112023_SF4129
+Free SKU,0,0,">tặng gói chăm sóc răng miệng cao cấp trị giá 500,000đ tại nha khoa >win smile>.>- ưu đãi giảm thêm ",MA_WINSMILE_12092023_SF3867
+Cash Voucher,50000,0,">voucher trị giá 50,000đ> áp dụng khi mua sắm tại hệ thống cửa hàng và website >beauty box>.>beauty ",xXC6438
+Combo Bundle,181000,0,">- b8: chiếu đèn led sinh học, ánh sáng đèn led có tác dụng hỗ trợ đưa tinh chất huyết yến đi sâu và",MAA_LISASPA_24012024_SF4566
+Discount Fixed Amount (For SKU),80000,0,">voucher ưu đãi giảm 80,000đ khi mua sản phẩm thương hiệu >lacoste >thuộc chương trình siêu deal trê",MA_LACOSTE_20012024_SF4502
+Discount Percentage (For SKU),0,45,"hoạt động, đảm bảo thời gian đánh răng tiêu chuẩn>- >sạc khoảng 12 tiếng, sử dụng liên tục đến 30 ng",MA_KACHI_18102023_SF4032
+Free SKU,0,0,">tặng xịt khoáng dưỡng ẩm 30ml trị giá 300,000đ cho đơn hàng> >clinique từ 1,000,000đ trở lên tại gi",MA_CLINIQUE_05032024_SF4659
+Discount Fixed Amount (For SKU),1001000,0,>bước 8: cân bằng lại ph trên da.>bước 9: điện di huyết thanh phục hồi sửa chữa tế bào skin repair g,MA_HATHORBEAUTYSPA_12102023_SF3968
+Discount Fixed Amount (For Total Bill),29000,0,">voucher ưu đãi giảm 29,000đ cho hóa đơn từ 119,000đ trở lên >tại >highlands coffee>*sản phẩm áp dụn",MA_HIGHLANDS_01032024_SF4637
+Cash Voucher,0,0,">đổi điểm vinid nhận ngay mã thẻ nạp >tiền điện thoại >mobifone mệnh giá 10,000đ>.",xXC3722
+Cash Voucher,20000,0,ở thành phiên bản hoàn hảo hơn mỗi ngày.,xXC9242
+Free SKU,0,0,>voucher miễn phí 07 ngày học thử khóa học cfa online của >sapp academy.>,SAPPACADEMY_30122023_SF4412
+Cash Voucher,0,0,">đổi 5,000 điểm vinid nhận ngay 150 dặm >thưởng lotusmiles> (dặm bay >vietnam airlines)>.",VIETNAMAIRLINES_30122020_1
+Discount Percentage (For Total Bill),0,30,">giảm giá 30% (tối đa 50,000đ) cho hóa đơn từ 45,000đ tại >hệ thống cửa hàng rau má mix.",MA_RAUMAMIX_01122023_SF4265
+Discount Percentage (For SKU),0,40,>giảm giá 40% tất cả các sản phẩm gia dụng >mishio.,MA_MISHIO_08122023_SF4269
+Discount Percentage (For SKU),0,25,">dairy queen hiện đã có mặt trên khắp thế giới: mỹ, canada, thái lan và nay đã có hơn 24 cửa hàng tạ",MA_DAIRYQUEEN_05012024_SF4483
+Discount Fixed Amount (For SKU),300000,0,">voucher giảm 300,000đ >áp dụng cho nhóm từ >04 người lớn> (không lũy kế) khi sử dụng 01 trong 02 me",MA_YAKIMONO_21022024_SF4629
+Free SKU,0,0,g>- được sử dụng dịch vụ thư giãn sau luyện tập (sauna và steambath)>- nước uống miễn phí>- hệ thống,MAP_CITiGYM_27062023_SF3464
+Free SKU,0,0,">tặng 01 khay sườn m trị giá 299,000đ cho hóa đơn từ 600,000đ khi thưởng thức món ngon tại nhà hàng ",MAA_SUONMUOI_30032024_SF4792
+Discount Percentage (For SKU),0,50,"e làm từ cao su chống ồn, độ bền cao",MA_MISHIO_05012024_SF4433
+Discount Fixed Amount (For SKU),251000,0,"ớc 6: làm sạch và cân bằng độ ẩm cho da.>bước 7: massage nâng cơ, dẫn lưu với tinh dầu dược liệu giú",MA_HATHORBEAUTYSPA_26052023_SF3335
+Others,0,0,">sau khi khách hàng đổi voucher&nbsp;>[vinaphone] thẻ nạp 20,000đ>&nbsp;sẽ không đổi được các vouche",xXC4866
+Discount Percentage (For SKU),0,22,">giảm 22% gói trisure carrier - xét nghiệm chẩn đoán mang gen bệnh thể ẩn.>giá dịch vụ từ 2,300,000đ",MAA_GENSOLUTION_25122023_SF4418
+Combo Bundle,401000,0,n>- b4: tiến hành xả sạch tóc để loại bỏ hoàn toàn các sản phẩm>- b5: kết thúc bằng quá trình sấy tó,MAA_SALONKENBLU_31032024_SF4790
+Free SKU,0,0,">tặng 01 phần trà trị giá 30,000đ khi order 01 phần cơm suất bất kỳ tại bếp lành.>- cơm thịt kho trứ",MAA_BEPLANH_29032024_SF4747
+Discount Fixed Amount (For Total Bill),30000,0,">voucher giảm 30,000đ cho 01 đơn giao hàng bằng xe máy của >ahamove, >áp dụng cho >khách hàng mới> t",MA_AHAMOVE_01022024_SF4609
+Buy 2 get 1,0,0,">mua 02 sản phẩm sữa chua/ trà sữa bất kỳ, khách hàng được tặng 01 sữa chua trân châu hạ long tại cá",MAA_SUACHUATRANCHAUHALONG_20012024_SF4497
+Discount Percentage (For SKU),0,50,">giảm 50% tối đa 85,000đ dành cho khách hàng mới, áp dụng tất cả dịch vụ trên ứng dụng btaskee.>- hi",MA_BTASKEE_01032024_SF4630
+Discount Percentage (For SKU),0,40,"óc tóc như sử dụng những sản phẩm gội phù hợp, hướng dẫn khách hàng kẹp càng cua để giữ được độ bền ",MAA_LONGHAIRSALON_01112023_SF4135
+Discount Percentage (For Total Bill),0,30,">dairy queen hiện đã có mặt trên khắp thế giới: mỹ, canada, thái lan và nay đã có hơn 24 cửa hàng tạ",MA_DAIRYQUEEN_05012024_SF4484
+Discount Fixed Amount (For SKU),100000,0,">giảm ngay 100,000đ khi mua máy sữa hạt nineshield kb 108 chính hãng nhật bản.>- áp dụng song song v",MA_NINESHIELD_28122023_SF4379
+Discount Fixed Amount (For Total Bill),159000,0,">voucher ưu đãi giảm 159,000đ khi mua >từ 02 sản phẩm >thương hiệu ysl thuộc chương trình siêu deal ",MA_YSL_20012024_SF4508
+Cash Voucher,30000,0,.,xXC10766
+Discount Percentage (For SKU),0,47,"ểu đơn giản, sẵn sàng để tạo kiểu hoặc để bạn thoải mái đi ra ngoài",MAA_HOMBEAUTY_01112023_SF4124
+Free SKU,0,0,">miễn phí khám ban đầu trị giá 150,000đ áp dụng với các chuyên khoa nội (gồm: nội chung, nội thần ki",MA_BENHVIENTHUCUC_01122023_SF4284
+Discount Percentage (For SKU),415000,0,">giảm 33% bếp hồng ngoại sunhouse cảm ứng shd6017 (giá gốc 1,250,000đ còn 835,000đ).>- xuất xứ: trun",MAA_SUNHOUSE_27122023_SF4353
+Discount Fixed Amount (For SKU),0,50,">ưu đãi >nồi hấp điện inox đa năng nagakawa nag3310> chỉ còn 990,000đ.>- xuất xứ: trung quốc>- bảo h",MA_Nagakawa_25122023_SF4397
+Free SKU,0,0,">ưu đãi tặng buổi kiểm tra năng lực tư duy + 01 buổi học thử tại hệ thống cms việt nam trị giá 2,000",MA_CMSEDU_15112023_SF4204
+Discount Fixed Amount (For Total Bill),100000,0,"ekids, litibaby, rabity, oli, crabie, mykingdom, ó princess.",MA_ROBINSTORE_19032024_SF4775
+Discount Fixed Amount (For Total Bill),39000,0,">voucher ưu đãi giảm 39,000đ cho hóa đơn từ 139,000đ trở lên >tại >highlands coffee>*sản phẩm áp dụn",MA_HIGHLANDS_02012024_SF4410
+Discount Fixed Amount (For Total Bill),100000,0,">giảm 100,000đ áp dụng cho tất cả sản phẩm (trừ hoa cắt cành) tại hoa yêu thương.>giá sản phẩm khoản",MA_Hoayeuthuong_05122023_SF4277
+Cash Voucher,0,0,">đổi điểm vinid nhận ngay mã thẻ nạp tiền điện thoại >vinaphone> mệnh giá 20,000đ>.",xXC3714
+Buy 2 get 1,0,0,">voucher ưu đãi >khi mua 02 ly trà cỡ lớn (áp dùng tất cả dòng trà), khách hàng được tặng thêm 01 ly",MA_HIGHLANDS_10012024_SF4448
+Discount Percentage (For SKU),0,50,">voucher giảm 50% (tối đa 80,000đ) cho 01 đơn giao hàng bằng >xe ba gác, xe bán tải, xe van, xe tải>",MA_AHAMOVE_01022024_SF4610
+Discount Fixed Amount (For Total Bill),100000,0,">giảm 100,000đ cho hóa đơn mua hàng từ 800,000đ trở lên, >áp dụng các sản phẩm canifa &amp; canifa k",MA_CANIFA_17012024_SF4518
+Cash Voucher,30000,0,">voucher trị giá 30,000đ> áp dụng tại hệ thống cửa hàng kids plaza.>kids plaza> chính là nơi hội tụ ",xXC4760
+Discount Percentage (For SKU),0,10,>giảm 10% khi mua sản phẩm thuộc thương hiệu bioderma>.>- áp dụng song song với giá đã giảm trên web,MA_BIODERMA_21122023_SF4338
+Cash Voucher,50000,0,">voucher trị giá 50,000đ> áp dụng khi sử dụng dịch vụ tại nhà hàng >manwah>.>giá món chỉ từ 49,000đ/",MAA_MANWAH_27012024_SF4582
+Discount Percentage (For SKU),0,20,>ưu đãi&nbsp;giảm 20% áp dụng với các sản phẩm seasonal của ding tea.>bst seasonal gồm có 03 món:>- ,MAA_DINGTEA_08122023_SF4280_CL
+Discount Fixed Amount (For Total Bill),200000,0,">voucher giảm 200,000đ cho hóa đơn 1,000,000đ áp dụng với hàng nguyên giá tại thời trang torano.>giá",MAA_TORANO_24102023_SF4120
+Cash Voucher,0,0,">thẻ nạp tiền điện thoại viettel mệnh giá 50,000đ.>website viettel",OMC_Viettel50_active
+Discount Percentage (For SKU),0,30,>giảm 30% gói >mencare> - xét nghiệm tầm soát nguy cơ ung thư di truyền cho nam giới.>giá dịch vụ từ,MAA_GENSOLUTION_25122023_SF4417
+Cash Voucher,50000,0,">voucher trị giá 50,000đ> áp dụng khi mua hàng tại chuỗi cửa hàng tiện lợi >circle k>.>bắt đầu từ nă",xXC12558
+Discount Percentage (For SKU),0,10,>giảm 10% khi mua sản phẩm thuộc thương hiệu maybelline>.>- áp dụng song song với giá đã giảm trên w,MA_MAYBELLINE_21122023_SF4359
+Buy 2 get 1,0,0,">voucher ưu đãi >mua 02 ly >trà hoặc freeze> cỡ lớn (bất kỳ), khách hàng được tặng thêm 01 ly trà cỡ",MA_HIGHLANDS_01032024_SF4634
+Cash Voucher,0,0,">đổi 1,000 điểm vinid nhận ngay mã thẻ nạp tiền điện thoại vietnamobile mệnh giá 10,000đ>.>website v",xXC3740
+Free SKU,0,0,">tặng combo xét nghiệm kiểm tra sức khỏe trị giá 99,000đ bao gồm:>- xét nghiệm men gan asat>- xét ng",MAA_DIAG_30112023_SF4274
+Cash Voucher,30000,0,">voucher trị giá 30,000đ> áp dụng tại các cửa hàng guardian.>thuộc tập đoàn dairy farm - nhà bán lẻ ",xXC5162
+Discount Percentage (For SKU),42000,0,"a, dưỡng móng cho mềm, đặc biệt mùa hanh khô tránh nẻ",MAA_USNAILSPACALABEAUTYCENTER_24012024_SF4575
+Discount Percentage (For SKU),0,35,>giảm 35% các gói khám sức khỏe và tầm soát ung thư (từ nhóm 1 đến nhóm 14)> tại bệnh viện thu cúc.>,MA_BENHVIENTHUCUC_01122023_SF4377
+Discount Fixed Amount (For Total Bill),50000,0,">giảm 50,000đ áp dụng cho tất cả sản phẩm tại locat.>giá sản phẩm khoảng từ 160,000đ - 1,400,000đ.",MA_LOCATVN_04032024_SF4673
+Discount Percentage (For Total Bill),0,20,">giảm 20% (tối đa 50,000đ) cho hóa đơn từ 100,000đ trở lên, >áp dụng với các dòng sản phẩm cà phê và",MA_COFFILIA_20012024_SF4515
+Discount Percentage (For Total Bill),0,10,>giảm 10% khi mua sản phẩm thuộc thương hiệu >asap>.>- áp dụng song song với giá đã giảm trên websit,MA_ASAP_21122023_SF4364
+Discount Fixed Amount (For SKU),0,0,gáy>- >bước 7: sấy tóc>- >bước 8: cấp ẩm cho tóc bằng serum dưỡng tóc,MAA_AURABOX_25122023_SF4354
+Discount Percentage (For SKU),0,20,">giảm 20% cho đơn nguyên giá từ 2,000,000đ trở lên, áp dụng cho các sản phẩm của bijindo và venesa.>",MAA_BIJINDO_25012024_SF4627
+Discount Fixed Amount (For SKU),50000,0,">voucher giảm giá 50,000đ cho massage toàn thân tại >spa 100% thảo mộc>:>- massage body 45 phút: giả",MA_SPA100THAOMOC_26122023_SF4419
+Discount Fixed Amount (For Total Bill),300000,0,">giảm ngay 300,000đ cho >hóa đơn từ 700,000đ trở lên> khi mua sản phẩm nội y tại ibasic.>- áp dụng h",MA_iBasic_28032024_SF4767
+Free SKU,0,0,">tặng 01 phần trà trị giá 30,000đ khi order 01 phần cơm suất bất kỳ tại bếp lành.>- cơm thịt kho trứ",MAA_BEPLANH_12012024_SF4494
+Cash Voucher,20000,0,">voucher trị giá 20,000đ> áp dụng khi thưởng thức buffet tại nhà hàng >kichi-kichi>.>kichi-kichi> là",xXC8900
+Cash Voucher,0,0,">đổi >điểm vinid nhận ngay >mã thẻ nạp tiền điện thoại >vietnamobile> mệnh giá 20,000đ>.",xXC3741
+Discount Fixed Amount (For SKU),401000,0, phát>- b7: khách hàng sẽ được đắp một lớp mặt nạ chuyên dụng để làm dịu da và giảm tình trạng sưng ,MAA_DLYNKCLINIC_24012024_SF4564
+Discount Percentage (For Total Bill),0,24,">+ giá đã bao gồm quầy buffet line>+ các loại nước uống, tráng miệng không giới hạn thay đổi theo ng",MA_YUHUA_15112023_SF4253
+Discount Fixed Amount (For SKU),31000,0,à sử dụng sản phẩm xịt dưỡng tóc có tác dụng dưỡng ẩm và nuôi dưỡng tóc,MAA_TRANGBEAUTYNAILCARE_01112023_SF4128
+Discount Percentage (For SKU),0,30,">giảm 30% với đơn hàng sử dụng dịch vụ từ 3h trở lên trên app jupviec.>giá dịch vụ khoảng từ 80,000đ",MA_JUPVIEC_15112023_SF4205
+Discount Percentage (For SKU),0,40,t giúp người dùng yên tâm sử dụng,MA_MISHIO_05012024_SF4431
+Discount Fixed Amount (For Total Bill),100000,0,">giảm ngay 100,000đ cho đơn hàng từ 500,000đ trở lên tại >the face shop>.>- chỉ áp dụng cho các sản ",MA_THEFACESHOP_25032024_SF4702
+Combo Bundle,0,34,>- b7: sấy tóc. tóc sẽ được sấy khô một cách nhẹ nhàng để giữ cho mái tóc khỏe mạnh>- b8: thưởng thứ,MAA_ANMIENSPATANBINH_24012024_SF4576
+Discount Percentage (For SKU),0,40,"hi dùng trên bàn ăn gia đình>- tùy chỉnh nhiệt độ bằng thanh gạt đơn giản, >mâm nhiệt lớn giúp truyề",MA_LADOMAX_02032024_SF4667
+Discount Fixed Amount (For Total Bill),50000,0,"ds, litibaby, rabity, oli, crabie, mykingdom, ó princess.",MA_ROBINSTORE_19032024_SF4776
+Free SKU,0,0,>voucher ưu đãi áp dụng >tại alpha fitness:>- tặng 15 ngày trải >nghiệm >dịch vụ miễn phí>- >tặng 01,MA_ALPHAFITNESS_29032024_SF4721
+Discount Fixed Amount (For Total Bill),39000,0,">voucher ưu đãi giảm 39,000đ cho hóa đơn từ 149,000đ trở lên >tại >highlands coffee>*sản phẩm áp dụn",MA_HIGHLANDS_01032024_SF4635
+Cash Voucher,20000,0,">voucher trị giá 20,000đ> áp dụng cho dịch vụ >bebike/becar> tại các thành phố be cung cấp dịch vụ.",MA_BEGROUP_30012024_SF4561
+Discount Fixed Amount (For SKU),0,50,">- >bước cuối: sấy khô hoặc sấy kiểu đơn giản, sẵn sàng để bạn thoải mái đi ra ngoài",MAA_HOMBEAUTY_24012024_SF4563
+Discount Percentage (For SKU),0,60,rắng răng>.>*>thời gian sử dụng dịch vụ: 30 phút - 60 phút / 01 lần>.,MA_WINSMILE_12102023_SF3970
+Discount Fixed Amount (For Total Bill),150000,0,">voucher giảm 150,000đ cho hóa đơn 700,000đ áp dụng với hàng nguyên giá tại thời trang torano.>giá s",MAA_TORANO_24102023_SF4113
+Cash Voucher,0,0,">đổi 2,000 điểm vinid nhận ngay mã thẻ nạp tiền điện thoại mobifone mệnh giá 20,000đ.> >website mobi",xXC4860
+Discount Percentage (For SKU),0,50,">voucher giảm giá 50% (tối đa 80,000đ) cho 01 đơn giao hàng bằng >xe ba gác, xe bán tải, xe van, xe ",MA_AHAMOVE_01122023_SF4266
+Cash Voucher,30000,0,">voucher trị giá 30,000đ> áp dụng cho dịch vụ đặt xe trên ứng dụng grab>: grabcar, grabcar 7 chỗ, gr",xXC579
+Discount Percentage (For SKU),0,10,>giảm giá 10% khi sử dụng dịch vụ thuê tài xế lái xe hộ cao cấp&nbsp;gocheap&nbsp;driverx.>giá dịch ,MAA_GOCHEAP_12082023_SF3668
+Cash Voucher,30000,0,">voucher trị giá 30,000đ áp dụng cho dịch vụ đặt xe trên ứng dụng grab.>grab> là siêu ứng dụng đa dị",MAA_GRAB_13102023_SF4014
+Discount Fixed Amount (For Total Bill),100000,0,">voucher giảm 100,000đ >áp dụng hóa đơn từ 1,000,000đ trở lên cho khách hàng> thưởng thức ẩm thực tạ",MA_BOTOQUANMOC_14032024_SF4701
+Combo Bundle,0,0,>voucher ưu đãi khi thưởng thức combo tại >quán nhậu tự do> yên lãng/ phó đức chính/ linh đàm/ mega ,MA_QUANNHAUTUDO_10032024_SF4781
+Discount Fixed Amount (For Total Bill),29000,0,">voucher ưu đãi giảm 29,000đ cho hóa đơn từ 119,000đ trở lên >tại >highlands coffee>*sản phẩm áp dụn",MA_HIGHLANDS_02012024_SF4406
+Cash Voucher,0,0,">đổi điểm vinid nhận ngay mã thẻ nạp tiền điện thoại >vinaphone> mệnh giá 10,000đ.",xXC3713
+Cash Voucher,0,0,">voucher trị giá 30,000đ sử dụng để nạp tiền điện thoại >viettel",xXC3706
+Discount Fixed Amount (For SKU),140000,0,gừa tình trạng mụn trở lại>- b6: massage mặt kết hợp với tinh chất peptide làm săn chắc làn da>- b7:,MAA_YENSPA_01112023_SF4137
+Free SKU,0,0,>tặng 01 buổi trải nghiệm công nghệ tại học viện công nghệ và sáng tạo trẻ teky.>- áp dụng cho khách,MA_TEKY_16112023_SF4252
+Free SKU,0,0,">voucher ưu đãi tặng 01 ly trà size s (trị giá 45,000đ) áp dụng khi mua >trà, freeze, phindi, cà phê",MA_HIGHLANDS_01032024_SF4636
+Cash Voucher,10000,0,">đổi điểm vinid nhận ngay v>oucher giảm 10,000đ sử dụng cho dịch vụ gọi xe xanh sm của gsm.",MA_GSM_18092023_SF3856
+Discount Fixed Amount (For SKU),159000,0,">voucher ưu đãi giảm 159,000đ khi mua >từ 02 sản phẩm >thương hiệu swarovski thuộc chương trình siêu",MA_SWAROVSKI_20012024_SF4509
+Discount Fixed Amount (For SKU),159000,0,">voucher ưu đãi giảm 159,000đ khi mua >từ 02 sản phẩm >thương hiệu chanel thuộc chương trình siêu de",MA_CHANEL_20012024_SF4507
+Discount Fixed Amount (For Total Bill),50000,0,">giảm ngay 50,000đ áp dụng cho hóa đơn từ 459,000đ trở lên khi mua các sản phảm dhc.>giá sản phẩm kh",MA_DHC_01032024_SF4638
+Cash Voucher,0,0,">đổi 2,000 điểm vinid nhận ngay mã thẻ data vinaphone 1.2gb sử dụng trong 30 ngày.>website vinaphone",xXC3767
+Discount Percentage (For SKU),0,20,>giảm 20% công tán sỏi bằng tất cả các phương pháp (không bao gồm tiền thuốc và vật tư tiêu hao) >tạ,MA_BENHVIENTHUCUC_01122023_SF4376
+Discount Fixed Amount (For SKU),570000,0,"nhưng phải đảm bảo tính hiệu quả cao.>- bước >5: sau khi triệt lông, kỹ thuật viên dùng khăn ẩm để l",MAA_WONHEEKOREA_01112023_SF4130
+Discount Percentage (For SKU),100000,0,"baan thai là điểm đến lý tưởng cho bạn cùng người thân, >bạn bè để >chia sẻ, thưởng thức và cùng khá",MA_KHRUABAANTHAI_15122023_SF4363
+Discount Fixed Amount (For Total Bill),50000,0,">voucher ưu đãi giảm 50,000đ cho hóa đơn mua sắm từ 500,000đ tại >decathlon.>giá sản phẩm từ 79,000đ",MAA_DECATHLON_10112023_SF4195
+Discount Fixed Amount (For SKU),2301000,0,">*>lưu ý>: sau 15 phút thực hiện, hiệu quả sẽ dần xuất hiện và qua 24 tiếng, bạn sẽ thấy da sáng và ",MAA_PMTAESTHETICCLINIC_01112023_SF4126
+Discount Fixed Amount (For SKU),25000,0,">giảm 25,000đ đối với sản phẩm bảo hiểm tnds xe máy của bất kì đơn vị bảo hiểm nào khi mua trên sala",MA_SALADIN_14032024_SF4666
+Discount Percentage (For SKU),1409400,0,"3 lớp chống dính, độ dày lên đến 1.8mm, an toàn khi sử dụng>- có bảng hiển thị bằng đèn led, chức nă",MA_TEFAL_22122023_SF4352
+Free SKU,0,0,">tặng kem nền double wear 7ml trị giá 380,000đ cho mọi đơn hàng estee lauder tại gian hàng chính hãn",MA_ESTEELAUDER_05032024_SF4664
+Discount Percentage (For SKU),0,43,">combo giảm 43% chỉ còn 465,000đ (giá gốc 820,000đ).>combo bao gồm các món:>- >01 salad rau củ quả >",MA_BONGON555_29032023_SF4748
+Cash Voucher,50000,0," công của >highlands coffee> là: không gian quán tuyệt vời, sản phẩm tuyệt hảo và dịch vụ chu đáo vớ",xXC8525
+Discount Percentage (For SKU),0,30,>giảm 30% gói pinkcare - xét nghiệm tầm soát nguy cơ ung thư di truyền cho nữ giới.>giá dịch vụ từ 2,MAA_GENSOLUTION_25122023_SF4416
+Discount Percentage (For SKU),0,25,>- phục hồi sự đầy đặn cho khuôn mặt mang đến một diện mạo trẻ trung và xinh đẹp hơn>- một lần cấy h,MAA_YENTRANGBEAUTY_24012024_SF4578
